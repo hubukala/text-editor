@@ -1,5 +1,5 @@
-# text-editor
-Simple text editor created in C++ with QtCreator
+# NotePad App
+**Simple text editor created in C++ with QtCreator.**
 
 Main window after opening program.
 
